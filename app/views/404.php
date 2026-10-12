@@ -1,0 +1,1 @@
+<?php require __DIR__.'/partials/header.php'; ?><section class="page-hero"><div class="wrap"><span class="eyebrow">ERRORE 404</span><h1>QUESTA PAGINA<br><em>NON È IN CAMPO.</em></h1><p>Il contenuto richiesto non è disponibile o è stato spostato.</p><a class="btn btn-red" href="index.php">Torna alla home ↗</a></div></section><?php require __DIR__.'/partials/footer.php'; ?>

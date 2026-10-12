@@ -1,0 +1,1 @@
+<?php require __DIR__.'/../app/bootstrap.php'; $page='calendario'; $title='Calendario'; require __DIR__.'/../app/controllers/page.php'; ?>
